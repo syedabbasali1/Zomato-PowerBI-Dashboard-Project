@@ -1,6 +1,9 @@
 # Zomato-PowerBI-Dashboard-Project
 This repository contains a Power BI project that visualizes and analyzes data from **Zomato**, a popular online food delivery and restaurant discovery platform.
 
+🔗 **Live Report Link**: [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNTg5ODNiN2QtODZlNS00OWQyLTlhODQtMTRhODhhMGViMGNhIiwidCI6...)
+
+
 ## 📊 Project Overview
 
 The dashboard provides deep insights into:
